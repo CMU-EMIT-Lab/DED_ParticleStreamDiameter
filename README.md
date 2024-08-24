@@ -6,7 +6,7 @@ Code Title: DED-LB particle stream diameter measurement using Python OpenCV
 
 This code extracts the Particle stream diameter from back-illuminated high speed video franes across different powder deposition parameters.
 The code is published for research reproducibility of the high-speed image analysis in corresponding project manuscript. 
-For evaluating the code, the raw high-speed imaging data for the 67 - 80 um powder under a carrier gas flow rate of 6 L/min is available for download from the data repository folder "HighSpeedDataForCodeGitLab".
+For evaluating the code, the raw high-speed imaging data for the 67 - 80 um powder under a carrier gas flow rate of 6 L/min is available for download from the data repository folder "HighSpeedDataForGitLabCode".
 
 ## Installation
 
