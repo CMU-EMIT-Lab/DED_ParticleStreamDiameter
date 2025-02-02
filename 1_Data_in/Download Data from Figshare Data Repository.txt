@@ -1,1 +1,1 @@
-Unzip `HighSpeedDataForGitLabCode.zip` contents here
+Unzip `HighSpeedDataForGitLabCode.zip` contents here, or use the automatic downloader in the code.
