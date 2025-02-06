@@ -5,7 +5,7 @@ Code Title: DED-LB particle stream diameter measurement using Python OpenCV
 ## Overview:
 
 This code extracts the Particle stream diameter from back-illuminated high speed video franes across different powder deposition parameters.
-The code is published for research reproducibility of the high-speed image analysis in corresponding project manuscript. 
+The code is published for research reproducibility of the high-speed image analysis in corresponding project manuscript (https://doi.org/10.1016/j.jmapro.2025.01.039). 
 For evaluating the code, the raw high-speed imaging data for the 67 - 80 um powder under a carrier gas flow rate of 6 L/min is available for download from the data repository folder "HighSpeedDataForGitLabCode". An automatic data download is also available in the code.
 
 ## Installation
@@ -30,13 +30,14 @@ Note: Since this code was writted in jupyter notebook, use a code IDE that has j
 Please use the following reference if you utilize this code.
 
 ```
-@article{ancalmo2024catchment,
-  title={Prediction of the Powder Catchment Efficiency and Melt Track Height in Laser Directed Energy Deposition},
-  author={Ancalmo, Colin and Narra, Sneha Prabha},
-  journal={Journal of Manufacturing Processes},
-  volume={},
-  pages={},
-  year={2025},
-  publisher={},
-  doi = {10.1016/j.jmapro.2025.01.039}
+@article{ANCALMO2025207,
+  title = {Prediction of the powder catchment efficiency and melt track height in laser directed energy deposition},
+  author = {Colin Ancalmo and Sneha Prabha Narra},
+  journal = {Journal of Manufacturing Processes},
+  volume = {137},
+  pages = {207-220},
+  year = {2025},
+  issn = {1526-6125},
+  doi = {https://doi.org/10.1016/j.jmapro.2025.01.039}
 }
+```
